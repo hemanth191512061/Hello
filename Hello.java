@@ -5,6 +5,7 @@ public class Hello {
 //first java
 		////heoooo
 		mlmlml
+			..knknk
 		System.out.println("Hello Java");
 	}
 
